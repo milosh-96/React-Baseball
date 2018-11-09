@@ -1,0 +1,23 @@
+.scoreboard-match {
+    width:150px;
+    height:50px;
+    background: #222;
+    padding: 7px  7px 0px 7px;
+    margin: 0 5px;
+    display: block;
+    float: left;
+}
+
+.scoreboard-match .team {
+    overflow: hidden;
+}
+.scoreboard-match .team .team-abbr {
+    width: 70%;
+}
+.scoreboard-match .team .team-score {
+    width: 30%;
+    font-weight: bold;
+}
+.scoreboard-match .team .team-abbr,.scoreboard-match .team .team-score {
+    display: inline-block;
+}

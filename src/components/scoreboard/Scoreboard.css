@@ -1,0 +1,7 @@
+.scoreboard {
+    background: #333;
+    width: 100%;
+    overflow: hidden;
+    color: #f4f4f4;
+    padding: 10px 0;
+}
